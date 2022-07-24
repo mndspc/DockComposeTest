@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\frontend.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.Razor.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\frontend.dll.config
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.Mvc.xml
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.xml
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.Razor.xml
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\bin\Debug\frontend.pdb
+C:\Users\Lenovo\source\repos\DockComposeTest\frontend\obj\Debug\docker-compose.dcproj.AssemblyReference.cache

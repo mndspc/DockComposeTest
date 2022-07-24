@@ -1,0 +1,16 @@
+name: dockercompose1251075235981176712
+services:
+  frontend:
+    build:
+      context: C:\Users\Lenovo\source\repos\DockComposeTest\frontend\frontend
+      dockerfile: Dockerfile
+    image: frontend
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose1251075235981176712_default

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frontend", "frontend\frontend.csproj", "{C57878C0-8B05-438A-9F62-CE6F7BA268B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend", "backend\backend.csproj", "{5A8EEDC9-97BB-406A-926A-7E949E530A27}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{63634270-F393-4F29-9DCB-DC8A02BE4434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57878C0-8B05-438A-9F62-CE6F7BA268B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57878C0-8B05-438A-9F62-CE6F7BA268B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57878C0-8B05-438A-9F62-CE6F7BA268B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57878C0-8B05-438A-9F62-CE6F7BA268B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8EEDC9-97BB-406A-926A-7E949E530A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8EEDC9-97BB-406A-926A-7E949E530A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8EEDC9-97BB-406A-926A-7E949E530A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8EEDC9-97BB-406A-926A-7E949E530A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63634270-F393-4F29-9DCB-DC8A02BE4434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63634270-F393-4F29-9DCB-DC8A02BE4434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63634270-F393-4F29-9DCB-DC8A02BE4434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63634270-F393-4F29-9DCB-DC8A02BE4434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070A498B-618E-4433-9F3F-09715CAB9348}
+	EndGlobalSection
+EndGlobal
